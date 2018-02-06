@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.concurrent;
+package com.test.java8.samples.concurrent;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -6,7 +6,7 @@ import java.util.concurrent.locks.ReentrantLock;
 import java.util.stream.IntStream;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Lock1 {
 

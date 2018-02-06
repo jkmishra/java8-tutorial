@@ -1,10 +1,10 @@
-package com.winterbe.java8.samples.misc;
+package com.test.java8.samples.misc;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra
  */
 public class Maps1 {
 

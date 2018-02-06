@@ -74,7 +74,7 @@ print(Object.prototype.toString.call(javaArray));
 
 // calling super
 
-var SuperRunner = Java.type('com.winterbe.java8.samples.nashorn.SuperRunner');
+var SuperRunner = Java.type('com.test.java8.samples.nashorn.SuperRunner');
 var Runner = Java.extend(SuperRunner);
 
 var runner = new Runner() {

@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.stream;
+package com.test.java8.samples.stream;
 
 import java.util.Arrays;
 import java.util.List;
@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 /**
  * Testing the order of execution.
  *
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Streams5 {
 

@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.lambda;
+package com.test.java8.samples.lambda;
 
 import java.util.Comparator;
 import java.util.Objects;
@@ -12,7 +12,7 @@ import java.util.function.Supplier;
 /**
  * Common standard functions from the Java API.
  *
- * @author Benjamin Winterberg
+ * @author jugul.mishra
  */
 public class Lambda3 {
 

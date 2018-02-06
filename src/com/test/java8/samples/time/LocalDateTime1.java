@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.time;
+package com.test.java8.samples.time;
 
 import java.time.DayOfWeek;
 import java.time.Instant;
@@ -10,7 +10,7 @@ import java.time.temporal.ChronoField;
 import java.util.Date;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class LocalDateTime1 {
 

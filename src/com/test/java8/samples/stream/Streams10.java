@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.stream;
+package com.test.java8.samples.stream;
 
 import java.util.Arrays;
 import java.util.IntSummaryStatistics;
@@ -9,7 +9,7 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Streams10 {
 

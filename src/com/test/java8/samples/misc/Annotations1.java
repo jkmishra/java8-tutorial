@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.misc;
+package com.test.java8.samples.misc;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Repeatable;
@@ -7,7 +7,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra
  */
 public class Annotations1 {
 

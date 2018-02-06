@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.nashorn;
+package com.test.java8.samples.nashorn;
 
 import jdk.nashorn.api.scripting.ScriptObjectMirror;
 
@@ -10,7 +10,7 @@ import java.util.Arrays;
 /**
  * Calling java methods from javascript with nashorn.
  *
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Nashorn2 {
 

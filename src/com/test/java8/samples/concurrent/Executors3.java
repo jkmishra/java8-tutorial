@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.concurrent;
+package com.test.java8.samples.concurrent;
 
 import java.util.Arrays;
 import java.util.List;
@@ -11,7 +11,7 @@ import java.util.concurrent.ScheduledFuture;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Executors3 {
 

@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.stream;
+package com.test.java8.samples.stream;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,7 +8,7 @@ import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Streams12 {
 

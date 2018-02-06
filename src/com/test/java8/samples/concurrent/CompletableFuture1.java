@@ -1,10 +1,10 @@
-package com.winterbe.java8.samples.concurrent;
+package com.test.java8.samples.concurrent;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class CompletableFuture1 {
 

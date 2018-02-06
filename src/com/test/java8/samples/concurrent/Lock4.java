@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.concurrent;
+package com.test.java8.samples.concurrent;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -7,7 +7,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.locks.StampedLock;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Lock4 {
 

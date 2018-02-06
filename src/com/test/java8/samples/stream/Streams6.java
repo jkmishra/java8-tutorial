@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.stream;
+package com.test.java8.samples.stream;
 
 import java.io.IOException;
 import java.math.BigDecimal;
@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Streams6 {
 

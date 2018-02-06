@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.misc;
+package com.test.java8.samples.misc;
 
 import java.util.function.Consumer;
 import java.util.function.Function;
@@ -7,7 +7,7 @@ import java.util.function.Predicate;
 /**
  * Utilities for hassle-free usage of lambda expressions who throw checked exceptions.
  *
- * @author Benjamin Winterberg
+ * @author jugul.mishra
  */
 public final class CheckedFunctions {
 

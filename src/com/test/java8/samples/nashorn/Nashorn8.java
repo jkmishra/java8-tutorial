@@ -1,13 +1,13 @@
-package com.winterbe.java8.samples.nashorn;
+package com.test.java8.samples.nashorn;
 
-import com.winterbe.java8.samples.lambda.Person;
+import com.test.java8.samples.lambda.Person;
 import jdk.nashorn.api.scripting.NashornScriptEngine;
 
 import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Nashorn8 {
     public static void main(String[] args) throws ScriptException, NoSuchMethodException {

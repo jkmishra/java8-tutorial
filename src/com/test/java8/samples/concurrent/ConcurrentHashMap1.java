@@ -1,10 +1,10 @@
-package com.winterbe.java8.samples.concurrent;
+package com.test.java8.samples.concurrent;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ForkJoinPool;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class ConcurrentHashMap1 {
 

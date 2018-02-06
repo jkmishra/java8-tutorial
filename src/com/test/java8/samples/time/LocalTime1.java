@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.time;
+package com.test.java8.samples.time;
 
 import java.time.Clock;
 import java.time.Instant;
@@ -11,7 +11,7 @@ import java.util.Date;
 import java.util.Locale;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class LocalTime1 {
 

@@ -1,6 +1,6 @@
-package com.winterbe.java8.samples.nashorn;
+package com.test.java8.samples.nashorn;
 
-import com.winterbe.java8.samples.lambda.Person;
+import com.test.java8.samples.lambda.Person;
 
 import javax.script.Invocable;
 import javax.script.ScriptEngine;
@@ -12,7 +12,7 @@ import java.util.Date;
 /**
  * Calling javascript functions from java with nashorn.
  *
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Nashorn1 {
 

@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.stream;
+package com.test.java8.samples.stream;
 
 import java.util.Optional;
 import java.util.function.Supplier;
@@ -6,9 +6,8 @@ import java.util.function.Supplier;
 /**
  * Examples how to avoid null checks with Optional:
  *
- * http://winterbe.com/posts/2015/03/15/avoid-null-checks-in-java/
  *
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Optional2 {
 

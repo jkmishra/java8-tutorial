@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.nashorn;
+package com.test.java8.samples.nashorn;
 
 import jdk.nashorn.api.scripting.ScriptObjectMirror;
 
@@ -9,7 +9,7 @@ import javax.script.ScriptEngineManager;
 /**
  * Using Backbone Models from Nashorn.
  *
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Nashorn6 {
 

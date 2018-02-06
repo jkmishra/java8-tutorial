@@ -1,11 +1,11 @@
-package com.winterbe.java8.samples.misc;
+package com.test.java8.samples.misc;
 
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class String1 {
 

@@ -1,7 +1,7 @@
-package com.winterbe.java8.samples.misc;
+package com.test.java8.samples.misc;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Math1 {
 

@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.nashorn;
+package com.test.java8.samples.nashorn;
 
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
@@ -6,7 +6,7 @@ import javax.script.ScriptEngineManager;
 /**
  * Working with java types from javascript.
  *
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Nashorn4 {
 

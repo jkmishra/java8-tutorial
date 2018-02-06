@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.nashorn;
+package com.test.java8.samples.nashorn;
 
 import jdk.nashorn.api.scripting.NashornScriptEngine;
 
@@ -10,7 +10,7 @@ import javax.script.SimpleBindings;
 import javax.script.SimpleScriptContext;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Nashorn11 {
 

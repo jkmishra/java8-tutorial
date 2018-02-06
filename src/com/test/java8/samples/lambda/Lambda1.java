@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.lambda;
+package com.test.java8.samples.lambda;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra
  */
 public class Lambda1 {
 

@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.nashorn;
+package com.test.java8.samples.nashorn;
 
 import jdk.nashorn.api.scripting.NashornScriptEngine;
 
@@ -7,7 +7,7 @@ import javax.script.ScriptException;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author Benjamin Winterberg
+ * @author jugul.mishra 
  */
 public class Nashorn10 {
 
